@@ -1,0 +1,3 @@
+[submodule "mradel-test2"]
+	path = mradel-test2
+	url = https://github.com/mradelSago/mradel-test2.git
